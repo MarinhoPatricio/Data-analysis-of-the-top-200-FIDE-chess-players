@@ -22,7 +22,7 @@
 <em> Obs: o gráfico apresenta mais 15 países abaixo da Austrália. Todos eles com apenas um jogador </em>
 </p>
 
-<p> Opta por competir sob a bandeira da FIDE jogares que — entre ouras razões — querem independência, que estão em processo de transição de nacionalidades ou que, mais atualmente, são jogadores russos. Por conta da guerra russo-ucraniana a FIDE proibiu o uso de símbolos nacionai russos e bielorussos. Assim, jogadores desses países, em partidas oficiais, jogam usando a bandeira da federação internacional. Basta ver que, na lista, todos os 9 jogadores que constam na federação FIDE são, na verdade, russos. Se considerássemos ao país de nascença, a Rússia ficaria com 19 jogadores, alçando o primeiro lugar. Não sei, no entanto, o porquê de alguns jogadores russos estarem ligados à federação nacional e outros à FIDE.
+<p> Optam por competir sob a bandeira da FIDE jogares que — entre ouras razões — querem independência, que estão em processo de transição de nacionalidades ou que, mais atualmente, são jogadores russos. Por conta da guerra russo-ucraniana a FIDE proibiu o uso de símbolos nacionai russos e bielorussos. Assim, jogadores desses países, em partidas oficiais, jogam usando a bandeira da federação internacional. Basta ver que, na lista, todos os 9 jogadores que constam na federação FIDE são, na verdade, russos. Se considerássemos ao país de nascença, a Rússia ficaria com 19 jogadores, alçando o primeiro lugar. Não sei, no entanto, o porquê de alguns jogadores russos estarem ligados à federação nacional e outros à FIDE.
 
 <p align="center">
     <img src=https://i.imgur.com/h65fAgs.png/>
