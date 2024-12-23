@@ -56,3 +56,13 @@
 <p align="center">
     <img src="https://i.imgur.com/nKMub9v.png">
 </p>
+
+
+<p> Interessante constatar também que há apenas três jogadores com mais de 2800 de rating: Magnus Carlsen (2831), Fabiano Caruana (2805) e HIkaru Nakamura (2802). O Erigaisi Arjun bate na trave com seus 2799 de rating.</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/VvAMUT8.png"/>
+</p>
+<p> Há dois ex-campeões mundiais neste gráfico: Magnus e o Anand. O primeiro, diga-se, fora o responsável por tirar o título do jogador elencado em décimo lugar. Isto no campeonato mundial de 2013. Desde então o Magnus ganhou mais 4 campeonatos, mas por questões próprias deixou de pleitear o campeonato de 2023, que fora então jogado pelo russo Ian Nepomniachtchi -— que aparece em oitavo lugar no gráfico — e pelo chinês Ding Liren — que sequer aparece no top 10. Com a vitória chinesa em 2023, Ding defenderá o título no campeonato deste ano contra o indiano Gukesh, que aparece em quinto lugar. O irônico, como apontou o lendário grande mestre e ex-campeão Kasparov, é que este será um campeonato sem a presença do melhor jogador do mundo (Magnus).</p>
+
+> "Minha opinião mais controversa é que não trato isso como uma partida de campeonato mundial. Para mim, uma partida de campeonato mundial sempre foi a partida pelo título de melhor jogador do mundo. Acho que a história das partidas de campeonato mundial, começou, a propósito, aqui em St. Louis, com Steinitz enfrentando Zukertort em 1886, terminou com Magnus Carlsen. Houve 16 campeões mundiais, você poderia chamá-los a qualquer momento de melhores jogadores. São aqueles que conquistaram o título derrotando o melhor jogador."
