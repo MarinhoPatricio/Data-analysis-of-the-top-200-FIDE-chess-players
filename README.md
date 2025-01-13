@@ -2,6 +2,8 @@
   <img src="https://i.imgur.com/8o1VHWf.png"/>
 </p>
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MarinhoPatricio/Data-analysis-of-the-top-200-FIDE-chess-players)
+
 # Análise de dados do top 200 da FIDE
 
 <p> Os dados aqui mostrados foram adquiridos via web scraping do site da FIDE (Federação Internacional de Xadrez). O fator discriminatório usado para defini-los como “maiores jogadores de xadrez” foi o rating standard atual que possuem. Deste modo, tirei da equação jogadores já falecidos e desconsiderei o pico histórico dos jogadores vivos. A lista exibe, assim, o nome de 200 jogadores. 
