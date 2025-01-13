@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/8o1VHWf.png"/>
 </p>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MarinhoPatricio/Data-analysis-of-the-top-200-FIDE-chess-players)
+[![en](https://img.shields.io/badge/lang-en-red.svg)]([https://github.com/MarinhoPatricio/Data-analysis-of-the-top-200-FIDE-chess-players](https://github.com/MarinhoPatricio/Data-analysis-of-the-top-200-FIDE-chess-players/blob/main/README.en.md))
 
 # Análise de dados do top 200 da FIDE
 
